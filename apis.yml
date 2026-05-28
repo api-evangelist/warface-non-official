@@ -1,0 +1,32 @@
+aid: warface-non-official
+name: Warface (non-official)
+description: "Official API proxy with better data structure and more features"
+url: https://api.wfstats.cf
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Games & Comics"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Games And Comics
+  - Public APIs
+apis:
+  - name: Warface (non-official)
+    description: "Official API proxy with better data structure and more features"
+    humanURL: https://api.wfstats.cf
+    baseURL: https://api.wfstats.cf
+    tags:
+      - Games And Comics
+    properties:
+      - type: Documentation
+        url: https://api.wfstats.cf
+common:
+  - type: Website
+    url: https://api.wfstats.cf
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
