@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://api.wfstats.cf
 common:
+  - type: DomainSecurity
+    url: security/warface-non-official-domain-security.yml
   - type: Website
     url: https://api.wfstats.cf
   - type: PublicAPIsListing
