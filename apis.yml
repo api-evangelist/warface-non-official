@@ -33,8 +33,9 @@ x-category: "Games & Comics"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Games And Comics
   - Public APIs
+  - Gaming
+  - Video Games
 apis:
   - name: Warface (non-official)
     description: "Official API proxy with better data structure and more features"
@@ -62,3 +63,5 @@ x-lifecycle:
   detail: >-
     The company's own domain returned no A or AAAA record when probed. This is an observation about the domain, not a request from the company.
   indexed: false
+x-tags-removed:
+- Games And Comics
