@@ -41,7 +41,8 @@ apis:
     description: "Official API proxy with better data structure and more features"
     humanURL: https://api.wfstats.cf
     baseURL: https://api.wfstats.cf
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
